@@ -6,5 +6,6 @@ noBtn.addEventListener("mouseover", () => {
   noBtn.style.transform = `translate(${x}px, ${y}px)`;
 });
 document.getElementById("yes").addEventListener("click", () => {
-  alert("YAY!! 💖 See you on Valentine’s Day 😍");
+  alert("You just made me the happiest person 😍");
+
 });
